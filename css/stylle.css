@@ -1,0 +1,114 @@
+#header #container {
+  width: 1504px;
+  height: 981px;
+  top: 0px;
+  left: 0px;
+  background-color: black;
+  position: absolute;
+}
+#header #container .img {
+  top: 56px;
+  left: 240px;
+  position: absolute;
+}
+#header #container #logo {
+  width: 1504px;
+  height: 56px;
+  gap: 0px;
+  opacity: 50%;
+  background: rgba(88, 88, 88, 0.9882352941);
+  top: 0px;
+  position: absolute;
+}
+#header #container #logo #img .img1 {
+  top: 20px;
+  position: absolute;
+  left: 50px;
+}
+#header #container #logo #img .img2 {
+  top: 20px;
+  position: absolute;
+  left: 100px;
+}
+#header #container #logo #img .img3 {
+  top: 12px;
+  position: absolute;
+  left: 1250px;
+}
+#header #container #logo input {
+  width: 575px;
+  height: 32px;
+  padding: 6px 10px 7px 10px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.75px;
+  text-align: left;
+  background: #181818;
+  color: #999999;
+  border: 1.18px solid #424242;
+  position: absolute;
+  top: 20px;
+  left: 350px;
+}
+#header #container #logo button {
+  width: 50px;
+  height: 32px;
+  padding: 6px 15px 6px 15px;
+  border: 1.18px solid #424242;
+  background: #424242;
+  position: absolute;
+  top: 20px;
+  left: 920px;
+}
+#header #container #left {
+  width: 240px;
+  height: 925px;
+  top: 56px;
+  left: 0px;
+  position: absolute;
+  background: #212121;
+}
+#header #container #left li {
+  display: block;
+  line-height: 40px;
+}
+#header #container #left #navbar {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-bottom: 2px solid #424242;
+  width: 240px;
+}
+#header #container #left #navbar2 {
+  position: absolute;
+  top: 200px;
+  left: 0px;
+  border-bottom: 2px solid #424242;
+  width: 240px;
+}
+#header #container #left #navbar3 {
+  position: absolute;
+  top: 490px;
+  left: 0px;
+  border-bottom: 2px solid #424242;
+  width: 240px;
+}
+#header #container #left #img {
+  position: absolute;
+  top: 866px;
+  left: 0px;
+}
+#header #container #card {
+  top: 211px;
+  left: 259px;
+  position: absolute;
+  width: 1245px;
+  height: 770px;
+}
+#header #container #card img {
+  position: relative;
+  margin-right: 20px;
+  width: 288px;
+  height: 252px;
+}/*# sourceMappingURL=stylle.css.map */
